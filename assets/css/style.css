@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'inter';
+    src: url('/assets/font/Inter-VariableFont_opsz\,wght.ttf');
+}
+body{
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  background-color: #f2f7f2 !important;
+}
+.bolder{
+    font-weight: bold;
+}
+h1{
+    font-weight: bold !important;
+}
+
+p{
+    font-weight: bold;
+}
+.yo{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+p{
+    font-size: 18px;
+}
+.yontainer{
+    justify-content: right;
+}
+.titulos{
+    text-align: left;
+}
+ul p{
+    margin: 0;
+}
+.kills{
+    justify-content: space-around;
+}
+.kills h3{
+    font-weight: bold;
+}
+.linea{
+    background-color: black;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 25px;
+}
