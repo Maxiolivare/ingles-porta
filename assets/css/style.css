@@ -8,14 +8,57 @@ body{
   background-color: #f2f7f2 !important;
 }
 .bolder{
-    font-weight: bold;
+    font-weight: bold !important;
+}
+.cartamano{
+    width: 300px;
+}
+.border{
+    border-radius: 5px;
+}
+.primg{
+    width: 100%;
+}
+.cuerproject{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+.margin-bottom{
+    margin-bottom: 42px;
+}
+
+.centro{
+    text-align: center;
 }
 h1{
     font-weight: bold !important;
 }
-
+input{
+    border: none !important;
+    height: 35px !important;
+}
+.form-control{
+    border-radius: 0 !important;
+}
+.margin-bottom-inpu{
+    margin-bottom: 10px;
+}
+textarea{
+    border: none !important;
+}
+.submit-button{
+    width: 175px ;
+}
+.btn{
+    border-radius: 0 !important;
+}
 p{
-    font-weight: bold;
+    font-size: 16px;
+}
+
+.lai{
+    font-weight: lighter;
 }
 .yo{
     width: 400px;
@@ -46,3 +89,10 @@ ul p{
     width: 100%;
     margin-bottom: 25px;
 }
+footer{
+    height: 100px;
+}
+footer .container p{
+    margin: 0.5px;
+}
+
